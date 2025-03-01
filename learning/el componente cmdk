@@ -1,0 +1,2 @@
+si no instalas las dependencias el linter se queja
+    npm install cmdk @radix-ui/react-dialog
